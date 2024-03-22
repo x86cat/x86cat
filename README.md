@@ -8,7 +8,7 @@ root@x86cat.local:~$ neofetch
 /__/__/     \__\__\__    timezone: "UTC+8:00"
 \  \  \     /  /  /      interests: "gamehacking","maldev"
  \  \,'`._,'`./  /       languages: "c","c#","java" // beginner
-  \,'`./___\,'`./        contact: "discord: 3303","t.me/y2lkal"
+  \,'`./___\,'`./        contact: "discord:3303"
  ,'`-./_____\,-'`.      
      /       \          
 ```
